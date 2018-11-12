@@ -1,0 +1,21 @@
+current:
+relationship between BoardPost and User
+    -user can be created w/o boardpost
+    -boardPost most have a user Id or user in post
+
+
+Create relationships between entities
+    -createDTO
+    -setup for REST
+    -test it works
+    -One DTO relationship at a time
+
+Make generic REST
+    -PK needs to be able to be a composite key, right now it must be Integer
+
+Make private static factory methods instead of constructors
+
+Setup CLI
+    -add tests
+
+Setup Seed into Generic
