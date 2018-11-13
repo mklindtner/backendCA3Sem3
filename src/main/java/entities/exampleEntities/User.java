@@ -10,7 +10,7 @@ public class User
 	private int id;
 
 	@Column
-	private String email, password;
+	private String email, hashPassword;
 
 	//private Role role;
 
@@ -18,10 +18,10 @@ public class User
 	{
 	}
 
-	public User(String email, String password)
+	public User(String email, String hashPassword)
 	{
 		this.email = email;
-		this.password = password;
+		this.hashPassword = hashPassword;
 	}
 
 	public int getId()
@@ -44,13 +44,8 @@ public class User
 		this.email = email;
 	}
 
-	public String getPassword()
+	public String getHashPassword()
 	{
-		return this.password;
-	}
-
-	public void setPassword(String password)
-	{
-		this.password = password;
+		return this.hashPassword;
 	}
 }

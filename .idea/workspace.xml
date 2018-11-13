@@ -7,100 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c11d3ec-7294-49f9-b9c7-7bc735c85ad4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/apIWebOwn2_war.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/apIWebOwn2_war_exploded.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6368f70b-4207-4a29-ab36-adfda3ecbd49.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apIWebOwn2.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/NameImpl.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/NamePrinting.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/BoardPostDTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/UserDTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/BoardPost.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/DiscussionBoard.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/Test.java" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/UserDTO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/rest/genericRest/implementedRestAndRepository/UserResource.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java" afterPath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/exampleEntities/UserDetails.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/BoardPostRepository.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/UserRepository.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rest/ApplicationConfig.java" afterPath="$PROJECT_DIR$/src/main/java/rest/ApplicationConfig.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rest/BoardPostResource.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rest/UserResource.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rest/genericRest/TestREST.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seedData/GenerateDataSet.java" afterPath="$PROJECT_DIR$/src/main/java/seedData/GenerateDataSet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/implementedRep/UserRepository.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/genericSolutions/dataSearcher.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/genericSolutions/formGenerator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/genericSolutions/tableGenerator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/implementedEntities/House.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/implementedEntities/Person.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/implementedSolution.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/todo.me" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displayUsers/users.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2.war" afterPath="$PROJECT_DIR$/target/apIWebOwn2.war" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/genericRest/GenericResource.class" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/genericRest/GenericResource.class" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/genericSolutions/dataSearcher.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/genericSolutions/formGenerator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/genericSolutions/tableGenerator.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/implementedEntities/House.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/implementedEntities/Person.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/implementedSolution.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/todo.me" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/displayUsers/users.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/index.jsp" afterPath="$PROJECT_DIR$/target/apIWebOwn2/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/META-INF/persistence.xml" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/Test/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/Test/NameImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/Test/NamePrinting.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/DTOConverter/exampleDTO/BoardPostDTO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/DTOConverter/exampleDTO/UserDTO.class" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/DTOConverter/exampleDTO/UserDTO.class" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/BoardPost.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/DiscussionBoard.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/User.class" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/User.class" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/entities/exampleEntities/UserDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/repositories/BoardPostRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/repositories/UserRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/ApplicationConfig.class" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/ApplicationConfig.class" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/BoardPostResource.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/UserResource.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/rest/genericRest/TestREST.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/seedData/GenerateDataSet.class" afterPath="$PROJECT_DIR$/target/apIWebOwn2/WEB-INF/classes/seedData/GenerateDataSet.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/NameImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/NamePrinting.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/DTOConverter/exampleDTO/BoardPostDTO.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/DTOConverter/exampleDTO/UserDTO.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/exampleEntities/BoardPost.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/exampleEntities/DiscussionBoard.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/exampleEntities/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/exampleEntities/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/exampleEntities/UserDetails.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repositories/BoardPostRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/repositories/UserRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rest/ApplicationConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rest/BoardPostResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rest/UserResource.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rest/genericRest/GenericResource.class" afterPath="$PROJECT_DIR$/target/classes/rest/genericRest/GenericResource.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/rest/genericRest/TestREST.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/seedData/GenerateDataSet.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,21 +49,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/repositories/implementedRep/UserRepository.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="1372">
+              <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java">
+      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rest/genericRest/implementedRestAndRepository/UserResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="349">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDTO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/UserDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore.io" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore.io">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-672">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persistence.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -172,11 +133,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/seedData/GenerateDataSet.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/rest/genericRest/TestREST.java" />
         <option value="$PROJECT_DIR$/src/main/java/rest/ApplicationConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/repositories/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/repositories/implementedRep/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/genericRest/implementedRestAndRepository/UserResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/UserDTO.java" />
       </list>
     </option>
   </component>
@@ -206,7 +170,9 @@
     <option name="width" value="974" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -271,6 +237,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="DTOConverter" type="462c0819:PsiDirectoryNode" />
+              <item name="exampleDTO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backendCA3Sem3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backendCA3Sem3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
               <item name="exampleEntities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,15 +255,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repositories" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backendCA3Sem3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="backendCA3Sem3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="repositories" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -312,7 +279,25 @@
               <item name="backendCA3Sem3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="genericRest" type="462c0819:PsiDirectoryNode" />
+              <item name="implementedRestAndRepository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backendCA3Sem3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backendCA3Sem3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backendCA3Sem3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backendCA3Sem3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="backendCA3Sem3" type="b2602c69:ProjectViewProjectNode" />
@@ -525,12 +510,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542103228493</updated>
       <workItem from="1542103232093" duration="315000" />
-      <workItem from="1542104178421" duration="1154000" />
+      <workItem from="1542104178421" duration="2858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1469000" />
+    <option name="totallyTimeSpent" value="3173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
@@ -556,7 +541,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3107162" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -607,14 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore.io">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rest/genericRest/TestREST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -627,22 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ApplicationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
           <folding />
         </state>
       </provider>
@@ -673,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/rest/genericRest/GenericResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="168">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
@@ -682,15 +643,55 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/repositories/implementedRep/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="13" column="94" lean-forward="false" selection-start-line="13" selection-start-column="94" selection-end-line="13" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/entities/exampleEntities/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="1372">
+          <caret line="49" column="5" lean-forward="false" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/genericRest/implementedRestAndRepository/UserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/DTOConverter/exampleDTO/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.io">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
