@@ -1,6 +1,5 @@
 package rest;
 
-import rest.genericRest.TestREST;
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 import java.util.Set;
@@ -22,8 +21,5 @@ public class ApplicationConfig extends Application
 
 	private void addRestResourceClasses(Set<Class<?>> resources)
 	{
-		resources.add(rest.UserResource.class);
-		resources.add(rest.BoardPostResource.class);
-		resources.add(rest.genericRest.TestREST.class);
 	}
 }

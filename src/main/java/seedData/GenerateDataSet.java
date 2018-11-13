@@ -1,12 +1,11 @@
 package seedData;
 
-import entities.exampleEntities.User;
-
 import javax.persistence.EntityManager;
 import javax.persistence.Persistence;
 
 public class GenerateDataSet
 {
+	/*
 	public static void main(String[] args)
 	{
 		seed();
@@ -39,7 +38,7 @@ public class GenerateDataSet
 			throw new RuntimeException(e);
 		}
 
-	}
+	} */
 
 
 }
